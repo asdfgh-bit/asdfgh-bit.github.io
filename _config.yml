@@ -1,8 +1,8 @@
-title: "我的个人博客"
-tagline: 技术笔记与随笔
+title: "默默无闻的博客"
+tagline: emo和碎碎念
 description: >
-  个人学习博客，记录学习过程
-author: 你的昵称
+  写一些自己的感想和经历
+author: 无毛猩猩
 url: "https://asdfgh-bit.github.io"
 baseurl: ""
 
@@ -25,13 +25,10 @@ theme: jekyll-theme-chirpy
 github:
   username: asdfgh-bit
 
-twitter:
-  username: twitter_username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 你的昵称
+  name: 无毛猩猩
   email: # example@domain.com
   fediverse_handle:
   links:
