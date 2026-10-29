@@ -3,27 +3,22 @@ tagline: 技术笔记与随笔
 description: >
   个人学习博客，记录学习过程
 author: 你的昵称
-url: "https://小号用户名.github.io"
+url: "https://asdfgh-bit.github.io"
 baseurl: ""
 
 timezone: Asia/Shanghai
 lang: zh-CN
 
-avatar: /assets/img/avatar.png
+# avatar: /assets/img/avatar.png
 
 social:
   - name: GitHub
-    url: "https://github.com/小号用户名"
+    url: "https://github.com/asdfgh-bit"
 
 search: true
 
 comments:
-  active: giscus
-giscus:
-  repo: 小号用户名/小号用户名.github.io
-  repo_id: 填你后面giscus生成的id
-  category: Announcements
-  category_id: 填id
+  active: 
 
 # Import the theme
 theme: jekyll-theme-chirpy
