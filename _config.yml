@@ -1,4 +1,29 @@
-# The Site Configuration
+title: "我的个人博客"
+tagline: 技术笔记与随笔
+description: >
+  个人学习博客，记录学习过程
+author: 你的昵称
+url: "https://小号用户名.github.io"
+baseurl: ""
+
+timezone: Asia/Shanghai
+lang: zh-CN
+
+avatar: /assets/img/avatar.png
+
+social:
+  - name: GitHub
+    url: "https://github.com/小号用户名"
+
+search: true
+
+comments:
+  active: giscus
+giscus:
+  repo: 小号用户名/小号用户名.github.io
+  repo_id: 填你后面giscus生成的id
+  category: Announcements
+  category_id: 填id
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -188,7 +213,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
