@@ -7,4 +7,3 @@ tags: []
 toc: true
 comments: false
 ---
-<% tp.file.cursor() %>
