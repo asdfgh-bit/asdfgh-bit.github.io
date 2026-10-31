@@ -9,7 +9,7 @@ baseurl: ""
 timezone: Asia/Shanghai
 lang: zh-CN
 
-avatar: /assets/img/avatar.jpg
+# avatar: /assets/img/avatar.jpg
 
 # 👉 侧边栏社交链接（Chirpy主题读取这个数组）
 social:
