@@ -1,5 +1,5 @@
-title: "默默无闻"
-tagline: 写一些emo和碎碎念
+title: "默默无闻的博客"
+tagline: emo和碎碎念
 description: >
   写一些自己的感想和经历
 author: 无毛猩猩
@@ -11,7 +11,6 @@ lang: zh-CN
 
 avatar: /assets/img/avatar.jpg
 
-# 👉 侧边栏社交链接（Chirpy主题读取这个数组）
 social:
   - name: GitHub
     url: "https://github.com/asdfgh-bit"
@@ -26,10 +25,11 @@ theme: jekyll-theme-chirpy
 github:
   username: asdfgh-bit
 
-# seo-tag 的 social，不要和上面侧边栏social重名！
-seo_social:
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 无毛猩猩
-  email:
+  email: # example@domain.com
   fediverse_handle:
   links:
     # The first element serves as the copyright owner's link
@@ -87,6 +87,8 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 cdn:
+
+# the avatar on sidebar, support local or CORS resources
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
