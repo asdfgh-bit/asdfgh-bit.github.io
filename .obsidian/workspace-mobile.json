@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-11-04-总结.md",
+                "file": "chirpy/chirpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-04-总结"
+              "title": "chirpy"
             }
           }
         ]
@@ -177,8 +177,11 @@
   },
   "active": "bf654ce2907c4481",
   "lastOpenFiles": [
-    "_posts/2026-11-04-中午.md",
+    "_posts/2026-11-05-看了一个视频的感想.md",
+    "_posts/2026-11-05-反思.md",
+    "_posts/2026-11-05-起床.md",
     "_posts/2026-11-04-总结.md",
+    "_posts/2026-11-04-中午.md",
     "_posts/2026-11-04-卸载了x.md",
     "_posts/2026-11-03-迷茫伤心中.md",
     "_posts/2026-11-03-组会.md",
@@ -200,9 +203,6 @@
     "_posts/2026-11-01-薄荷鸡.md",
     "_posts/2026-11-01-上下文的长度可以变化.md",
     "chirpy/chirpy.md",
-    "chirpy/chirpy-随笔.md",
-    "_posts/2026-11-01-困死我了.md",
-    "_posts/2026-11-01-中午.md",
     "robots.txt",
     "未命名",
     "chirpy",
