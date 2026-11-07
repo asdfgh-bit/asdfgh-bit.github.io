@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chirpy/chirpy.md",
+                "file": "_posts/2026-11-7-一万公里打卡.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chirpy"
+              "title": "2026-11-7-一万公里打卡"
             }
           }
         ]
@@ -177,8 +177,21 @@
   },
   "active": "bf654ce2907c4481",
   "lastOpenFiles": [
-    "_posts/2026-11-05-看了一个视频的感想.md",
+    "_posts/2026-11-07-给我看emo了.md",
+    "_posts/2026-11-7-一万公里打卡.md",
+    "_posts/2026-11-07-总结昨天的内容.md",
+    "_posts/2026-11-06-奇怪的一堂课.md",
+    "_posts/2026-11-06-起床.md",
+    "_posts/2026-11-05-总结.md",
+    "2026-11-05.md",
+    "_posts/2026-11-05-我对我的大学的看法.md",
+    "_posts/2026-11-05-偶遇.md",
+    "_posts/2026-11-05-石狮子.md",
+    "_posts/2026-11-05-我的腰啊.md",
     "_posts/2026-11-05-反思.md",
+    "_posts/2026-11-05-看了一个视频的感想.md",
+    "chirpy/chirpy.md",
+    "assets/img/avatar.jpg",
     "_posts/2026-11-05-起床.md",
     "_posts/2026-11-04-总结.md",
     "_posts/2026-11-04-中午.md",
@@ -191,22 +204,9 @@
     "2026-11-03.md",
     "_posts/2026-11-03-起床.md",
     "_posts/2026-11-02-该怎么建立连接呢.md",
-    "_posts/2026-11-02-总结.md",
-    "_posts/2026-11-02-笑死我了.md",
-    "_posts/2026-11-02-欲望太大了.md",
-    "_posts/2026-11-02-一定要改掉坏毛病啊！.md",
-    "_posts/2026-11-02-童年（1）.md",
-    "_posts/2026-11-02-大学（1）.md",
-    "_posts/2026-11-02-伤心.md",
-    "_posts/2026-11-02-中午.md",
-    "_posts/2026-11-01-总结.md",
-    "_posts/2026-11-01-薄荷鸡.md",
-    "_posts/2026-11-01-上下文的长度可以变化.md",
-    "chirpy/chirpy.md",
     "robots.txt",
     "未命名",
     "chirpy",
-    "assets/img/avatar.jpg",
     "tools/test.sh",
     "tools/run.sh",
     "_plugins/posts-lastmod-hook.rb",
